@@ -1,0 +1,2 @@
+include ':app', ':yolaeditor'
+rootProject.name='YolaEditorDemo'
